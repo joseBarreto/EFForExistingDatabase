@@ -30,5 +30,12 @@ Scaffold-DbContext "Server=NomeDoServidor;Database=NomeDoBanco;Uid=NomeDoUsuario
 Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=NomeDoBanco;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 ```
 
- [provedor de acesso]: <https://docs.microsoft.com/pt-br/ef/core/providers/index>
+### Referências
+https://docs.microsoft.com/pt-br/ef/core/get-started/aspnetcore/existing-db
+https://docs.microsoft.com/pt-br/ef/core/providers/index
+
+
+[provedor de acesso]: <https://docs.microsoft.com/pt-br/ef/core/providers/index>
  
+
+
