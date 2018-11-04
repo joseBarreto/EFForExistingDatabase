@@ -16,6 +16,7 @@ Para este exemplo, usaremos o do MySql e SQL Server
 Install-Package Pomelo.EntityFrameworkCore.MySql -Version 2.1.2
 ```
 ***SqlServer***
+
 Não é necessario fazer instalações adicionais para o SQL Server, uma vez que o proveder para o EF esta dentro deo Microsoft.AspnetCore.App
 
 ### Scarffold
